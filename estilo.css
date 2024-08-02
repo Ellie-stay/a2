@@ -1,17 +1,17 @@
 body{
-    background: rgb(131, 78, 78);
+    background: rgb(201, 17, 17);
     color: pink;
     text-align: center;
     }
 .principal {
-   background-color: brown; 
+   background-color: rgb(102, 39, 39); 
    padding: 100px;
    margin: 20px;
 
     }
-.felix{
+.yongbok{
     background: rgb(86, 86, 160);
-    color: rgb(30, 30, 82);
+    color: rgb(26, 26, 46);
     text-align: right;
     padding: 200px 50px;
     margin: 50px 100px;
